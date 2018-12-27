@@ -14,7 +14,7 @@ For example, if you want to insert 1000000 randomly generated integers in the ra
 ```
 # turn-off-log choose-to-insert-and-check-random-numbers first-number-of-range last-number-of-range number-of-random-numbers-to-be-inserted number-of-random-numbers-to-be-checked
 0 2 1 1000000000 1000000 1000000
-
+```
 If you choose to select specific numbers that should be inserted, you will be able to insert as many numbers as you want and then check whether a number is inserted or not. You can also print all the inserted numbers in each step.
 
 ## How to change it?
