@@ -10,7 +10,7 @@ After running the jar file, it will ask you whether you want to see the logging 
 In the next step, you can choose whether you want to select specific numbers that should be inserted or insert randomly generated numbers.
 
 If you choose to insert randomly generated numbers, you will have to select the range of random numbers, the number of random numbers that should be generated, and the number of random numbers that will be checked whether they are inserted or not. If you enable logging option, all the inserted and checked numbers will be logged.
-For example, if you want to insert 1000000 randomly generated integers in the range of (1, 1000000000) and check whether or not 1000000 random numbers are inserted, you will have to enter following numbers as commands.
+For example, if you want to insert 1000000 randomly generated integers from the range of (1, 1000000000) and check whether or not 1000000 random numbers are inserted, you will have to enter following numbers as commands.
 ```
 # turn-off-log choose-to-insert-and-check-random-numbers first-number-of-range last-number-of-range number-of-random-numbers-to-be-inserted number-of-random-numbers-to-be-checked
 0 2 1 1000000000 1000000 1000000
